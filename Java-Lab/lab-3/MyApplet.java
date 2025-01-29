@@ -1,5 +1,3 @@
-package Labthree;
-
 import java.applet.Applet;
 import java.awt.Button;
 import java.awt.Canvas;
