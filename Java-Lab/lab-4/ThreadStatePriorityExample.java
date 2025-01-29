@@ -1,5 +1,3 @@
-package Labfour;
-
 public class ThreadStatePriorityExample {
     public static void main(String[] args) {
         Thread thread = new Thread(() -> {
