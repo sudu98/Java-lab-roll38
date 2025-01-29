@@ -1,5 +1,3 @@
-package LabSeven;
-
 import java.io.*;
 import java.net.*;
 
