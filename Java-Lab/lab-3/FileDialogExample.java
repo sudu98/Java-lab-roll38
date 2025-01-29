@@ -1,5 +1,3 @@
-package Labthree;
-
 import java.awt.Button;
 import java.awt.FileDialog;
 import java.awt.Frame;
