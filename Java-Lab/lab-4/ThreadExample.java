@@ -1,5 +1,3 @@
-package Labfour;
-
 public class ThreadExample {
     public static void main(String[] args) {
         Thread thread1 = new Thread(new MyRunnable("Thread 1"));
